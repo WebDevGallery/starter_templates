@@ -1,2 +1,2 @@
 # starter_templates
-[MERN STARTER TEMPLATE](https://github.com/WebDevGallery/MERN_STARTER_TEMPLATE)
+1. [MERN STARTER TEMPLATE](https://github.com/WebDevGallery/MERN_STARTER_TEMPLATE)
